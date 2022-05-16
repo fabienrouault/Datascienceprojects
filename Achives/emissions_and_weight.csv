@@ -1,0 +1,402 @@
+Marca,Modelo,Combustible,Carrocería,Cilindrada,co2,weight
+Alfa Romeo,Mito,Gasolina,Hatch Back,1.4,145.75,1155
+Alfa Romeo,Mito JTD,Diesel,Hatch Back,1.2,91,1225
+Aston Martin,DB9,Gasolina,Cabriolet,5.9,325,1890
+Aston Martin,DB9,Gasolina,Coupé,5.9,325,1785
+Aston Martin,V12 Vantage S,Gasolina,Convertible,6,343,1665
+Aston Martin,V12 Vantage S,Gasolina,Coupé,6,356,1665
+Aston Martin,Vanquish,Gasolina,Cabriolet,5.9,335,1849
+Aston Martin,Vanquish,Gasolina,Coupé,5.9,335,1739
+Aston Martin,Vantage,Gasolina,Cabriolet,4.7,296,1690
+Aston Martin,Vantage,Gasolina,Coupe,4.7,296,1510
+Aston Martin,Vantage S,Gasolina,Cabriolet,4.7,296,1690
+Aston Martin,Vantage S,Gasolina,Coupe,4.7,296,1510
+Audi,A1,Gasolina,Hatch Back,1.2,120,1140
+Audi,A1,Gasolina,Hatch Back,1.4,141.6,1155
+Audi,A1 Sportback,Gasolina,Hatch Back,1.4,146,1180
+Audi,A1 TFSI,Gasolina,Hatch Back,1.4,120.75,1155
+Audi,A3,Diesel,Hatch Back,2,120,1365
+Audi,A3,Diesel,Sedan,2,122,1490
+Audi,A3,Gasolina,Hatch Back,1.2,122.625,1255
+Audi,A3,Gasolina,Hatch Back,1.4,123,1345
+Audi,A3,Gasolina,Hatch Back,1.8,162.33333333333334,1305
+Audi,A3,Gasolina,Sedan,1.4,115,1280
+Audi,A3,Gasolina,Sedan,1.8,159,1440
+Audi,A4,Gasolina,Sedan,1.8,126,1545
+Audi,A4,Gasolina,Station Wagon,2,143,1745
+Audi,A4 Allroad Quattro,Gasolina,Station Wagon,2,166,1685
+Audi,A4 Avant,Diesel,Station Wagon,2,149,1610
+Audi,A4 Avant,Gasolina,Station Wagon,1.8,141,1600
+Audi,A5 Quattro,Gasolina,Convertible,2,159,1835
+Audi,A5 Quattro,Gasolina,Coupé,2,155,1575
+Audi,A5 TFSI,Gasolina,Coupe,2,139,1530
+Audi,A6,Diesel,Sedan,2,132,1720
+Audi,A6,Diesel,Sedan,3,162,1720
+Audi,A6,Gasolina,Sedan,2,151,1780
+Audi,A6,Gasolina,Sedan,3,192,1935
+Audi,A6,Gasolina,Station Wagon,3,190,1910
+Audi,A6 Allroad,Diesel,Station Wagon,3,162,2020
+Audi,A6 Avant,Diesel,Station Wagon,3,162,1785
+Audi,A6 T Quattro,Gasolina,Sedan,3,172,1835
+Audi,A6 Ultra,Gasolina,Sedan,1.8,133,1645
+Audi,A7,Diesel,Hatch Back,3,156,1770
+Audi,A7,Gasolina,Hatch Back,3,190,1860
+Audi,A7 Quattro Sportback,Gasolina,Hatch Back,3,179,1860
+Audi,A8,Gasolina,Sedan,3,207,2035
+Audi,A8 Quattro,Gasolina,Sedan,3,183,2035
+Audi,R8 Coupe,Gasolina,Coupé,4.2,289,1635
+Audi,R8 Spyder,Gasolina,Cabriolet,4.2,294,1735
+Audi,R8 Spyder,Gasolina,Cabriolet,5.2,312,1795
+Audi,S3,Gasolina,Hatch Back,2,203.5,1505
+Audi,S3,Gasolina,Sedan,2,202,1570
+Audi,S5,Gasolina,Cabriolet,3,201,1895
+Audi,S8,Gasolina,Sedan,4,230,2295
+Audi,TT,Gasolina,Cabriolet,2,167,1535
+Audi,TT,Gasolina,Coupé,1.8,147,1285
+BMW,120d,Diesel,Hatch Back,2,116,1590
+BMW,220i,Gasolina,Cabriolet,2,144,1655
+BMW,325i,Gasolina,Cabriolet,2.5,204,1450
+BMW,325i,Gasolina,Coupé,2.5,194,1495
+BMW,420i,Gasolina,Cabriolet,2,149,1765
+BMW,420i,Gasolina,Coupé,2,147,1695
+BMW,428i,Gasolina,Cabriolet,2,147,1812
+BMW,428i,Gasolina,Coupé,2,147,1565
+BMW,435i,Gasolina,Cabriolet,3,169,1864
+BMW,435i,Gasolina,Coupé,3,169,1633
+BMW,520d,Diesel,Station Wagon,2,123,1855
+BMW,550i,Gasolina,Sedan,4.4,243,1939
+BMW,640I,Gasolina,Cabriolet,3,181,1928
+BMW,640I,Gasolina,Coupé,3,177,1889
+BMW,650I,Gasolina,Cabriolet,4.4,214,2037
+BMW,650I,Gasolina,Coupé,4.4,206,2005
+BMW,750i,Gasolina,Sedan,4.4,199,2040
+BMW,ActiveHybrid 7,Eléctrico/Híbrido,Sedan,4.4,219,2070
+BMW,M135i,Gasolina,Hatch Back,3,186,1600
+BMW,M235i,Gasolina,Cabriolet,3,184,1690
+BMW,M235i,Gasolina,Coupé,3,176,1645
+BMW,M3,Gasolina,Sedan,3,194,1855
+BMW,M4,Gasolina,Cabriolet,3,203,1965
+BMW,M4,Gasolina,Coupé,3,194,1770
+BMW,M6,Gasolina,Cabriolet,4.4,239,2032
+BMW,M6,Gasolina,Coupé,4.4,232,1994
+BMW,M6,Gasolina,Sedan,4.4,232,1994
+BMW,Z4 sDrive20i,Gasolina,Cabriolet,2,159,1480
+Changan,EADO,Gasolina,Sedan,1.6,195,1275
+Chery,Arrizo 7,Gasolina,Sedan,1.6,188,1350
+Chevrolet,Camaro SS,Gasolina,Coupé,6.2,304,1671
+Chevrolet,Camaro ZL,Gasolina,Coupé,6.2,316.5,1748
+Chevrolet,Cruze,Diesel,Sedan,2,165,1402
+Chevrolet,Cruze,Gasolina,Hatch Back,1.8,194,1310
+Chevrolet,Cruze,Gasolina,Sedan,1.8,194,1305
+Chevrolet,Malibu,Gasolina,Sedan,3,225,1628
+Chevrolet,Sail NB,Gasolina,Sedan,1.4,149,1060
+Chevrolet,Spark LT HB,Gasolina,Hatch Back,1,153,1028
+Chrysler,300C,Gasolina,Sedan,3.6,247,1820
+Citroen,C1,Gasolina,Hatch Back,1,104,915
+Citroen,C3,Diesel,Hatch Back,1.4,109.5,1220
+Citroen,C3,Diesel,Hatch Back,1.6,98,1278
+Citroen,C3,Gasolina,Hatch Back,1.2,116,1234
+Citroen,C3,Gasolina,Hatch Back,1.6,153.5,1215
+Citroen,C4,Diesel,Hatch Back,1.6,123,1388
+Citroen,C4,Gasolina,Hatch Back,1.4,147,1330
+Citroen,C4,Gasolina,Hatch Back,1.6,154,1420
+Citroen,C4 Stop & Start,Diesel,Hatch Back,1.6,117,1160
+Citroen,C5,Diesel,Sedan,2,166,1615
+Citroen,C5 Break,Diesel,Station Wagon,2,166.5,1842
+Citroen,DS3,Gasolina,Hatch Back,1.6,148,1240
+Citroen,DS4,Diesel,Hatch Back,1.6,111,1365
+Citroen,DS4,Gasolina,Hatch Back,1.6,178,1359
+Citroen,DS5,Diesel,Hatch Back,2,160,1495
+Citroen,DS5,Gasolina,Hatch Back,1.6,171,1495
+Dodge,Charger,Gasolina,Sedan,3.6,288,1847
+Dodge,Charger AWD,Gasolina,Sedan,3.6,288,1907
+Dodge,Dart SE,Gasolina,Sedan,2,217,1495
+Fiat,500 L,Gasolina,Hatch Back,1.4,146,1245
+Fiat,Bravo,Diesel,Hatch Back,1.6,115,1395
+Fiat,Bravo,Gasolina,Hatch Back,1.4,146,1350
+Fiat,Uno Attractive,Gasolina,Hatch Back,1.4,163,925
+Fiat,Uno Sporting,Gasolina,Hatch Back,1.4,163,944
+Fiat,Uno Way,Gasolina,Hatch Back,1.4,163,929
+Ford,Edge,Gasolina,SUV,2,248,1795
+Ford,Escape,Gasolina,SUV,2,219.5,1496
+Ford,Escape,Gasolina,SUV,2.5,205,1681
+Ford,Escape S,Gasolina,SUV,2.5,180,1681
+Ford,Fiesta,Gasolina,Hatch Back,1.6,153,1150
+Ford,Fiesta,Gasolina,Sedan,1.6,153,1166
+Ford,Focus,Gasolina,Hatch Back,2,178.75,1508
+Ford,Focus Titanium,Gasolina,Hatch Back,2,187,1322
+Ford,Fusion,Gasolina,Sedan,2.5,217,1575
+Ford,Mustang,Gasolina,Coupé,5,303,1692
+Great Wall,Voleex C30,Gasolina,Sedan,1.5,171.5,1125
+Honda,Accord,Gasolina,Sedan,2.4,191,1482
+Honda,Accord,Gasolina,Sedan,3.5,230,1607
+Honda,Civic,Gasolina,Coupé,1.8,168.5,1272
+Honda,Civic EX,Gasolina,Sedan,1.8,168.5,1195
+Honda,Civic Si,Gasolina,Coupé,2.4,203,1362
+Honda,Fit,Gasolina,Hatch Back,1.5,145,1199
+Infiniti,Q50,Gasolina,Sedan,2,183.5,1693
+Infiniti,Q50,Gasolina,Sedan,3.7,232,1621
+Infiniti,Q50 S Hybrid,Eléctrico/Híbrido,Sedan,3.5,160,1821
+Infiniti,Q60 C,Gasolina,Cabriolet,3.7,255,1852
+Infiniti,Q70,Gasolina,Sedan,3.7,278,1798
+Jac,J2,Gasolina,Hatch Back,1,150,915
+Jaguar,F-Type,Gasolina,Coupé,5,259,1735
+Jaguar,Jaguar XE,Gasolina,Sedan,2,179,1611
+Jaguar,XF,Diesel,Sedan,3,169,1819
+Jaguar,XF,Gasolina,Sedan,3,227,1819
+Jaguar,XF,Gasolina,Sedan,5,264,1735
+Jaguar,XF R,Gasolina,Sedan,5,292,1735
+Jaguar,XF T,Gasolina,Sedan,2,207,1735
+Jaguar,XJ,Gasolina,Sedan,5,289,1875
+Jaguar,XJ S/C,Gasolina,Sedan,3,234,1892
+Jaguar,XK,Gasolina,Cabriolet,5,264,1795
+Jaguar,XK R,Gasolina,Cabriolet,5,292,1795
+Jeep,Wrangler Unlimited Rubicon,Gasolina,Jeep,3.6,273,1957
+Jeep,Wrangler Unlimited Sahara,Gasolina,Jeep,3.6,260.5,1936
+Jeep,Wrangler Unlimited Sport,Gasolina,Jeep,3.6,260.5,1848
+Kia,Cerato,Gasolina,Hatch Back,1.6,161,1194
+Kia,Cerato,Gasolina,Hatch Back,2,178,1194
+Kia,Cerato,Gasolina,Sedan,1.6,155,1253
+Kia,Cerato,Gasolina,Sedan,2,178,1253
+Kia,Koup,Gasolina,Coupé,2,178,1302
+Kia,Morning,Gasolina,Hatch Back,1,109,880
+Kia,Optima,Gasolina,Sedan,2,181,1490
+Kia,Rio 3,Gasolina,Hatch Back,1.4,152,1218
+Kia,Rio 4,Gasolina,Sedan,1.4,152,1195
+Kia,Rio 5,Gasolina,Hatch Back,1.4,152,1141
+Land Rover,Range Rover Evoque,Gasolina,Coupé,2,230,1833
+Lexus,CT 200 H,Eléctrico/Híbrido,Hatch Back,1.8,90,1420
+Lexus,ES 350,Gasolina,Sedan,3.5,215,1655
+Lexus,GS 250,Gasolina,Sedan,2.5,218,1570
+Lexus,GS 350,Gasolina,Sedan,3.5,273,1690
+Lexus,IS 250,Gasolina,Sedan,2.5,211,1555
+Lexus,IS 350,Gasolina,Sedan,3.5,235,1700
+Lexus,LS 460,Gasolina,Sedan,4.6,263,1920
+Lexus,NX 300 H,Eléctrico/Híbrido,Station Wagon,2.5,139.5,1715
+Lexus,RC 350,Gasolina,Coupe,3.5,227,1700
+Lexus,RC-F,Gasolina,Coupe,5,263,1795
+Maserati,Ghibli,Gasolina,Sedan,3,221,1969
+Maserati,Ghibli S,Diesel,Sedan,3,163,1969
+Maserati,Ghibli S,Gasolina,Sedan,3,221,1969
+Maserati,Grancabrio,Gasolina,Cabriolet,4.7,332,1973
+Maserati,Grancabrio Sport,Gasolina,Cabriolet,4.7,332,1980
+Maserati,Granturismo S,Gasolina,Coupé,4.7,341,1873
+Maserati,Granturismo Sport,Gasolina,Coupé,4.7,337,1880
+Maserati,Quattroporte,Gasolina,Sedan,3.8,274,2000
+Maserati,Quattroporte S,Gasolina,Sedan,3,285,2000
+Mazda,Mazda 2,Gasolina,Sedan,1.5,137,1265
+Mazda,Mazda 2 Sport,Gasolina,Hatch Back,1.5,136.15,1141
+Mazda,Mazda 3,Gasolina,Sedan,1.6,153.5,1260
+Mazda,Mazda 5,Gasolina,Station Wagon,1.5,195,1100
+Mazda,Mazda 5,Gasolina,Station Wagon,2,205,1466
+Mazda,Mazda 6,Diesel,Sedan,2.2,159,1546
+Mazda,Mazda 6,Gasolina,Sedan,2,161.33333333333334,1559
+Mazda,Mazda 6,Gasolina,Station Wagon,2,166,1399
+Mazda,Mazda MX-5,Gasolina,Cabriolet,2,178,1058
+Mazda,Mazda MX-5,Gasolina,Coupé,2,202,1150
+Mercedes Benz,A 180,Gasolina,Hatch Back,1.6,133,1370
+Mercedes Benz,A 180 CDI,Diesel,Hatch Back,1.8,145,1475
+Mercedes Benz,A 45 AMG,Gasolina,Hatch Back,2,168,1620
+Mercedes Benz,AMG GT S,Gasolina,Coupe,4,219,1665
+Mercedes Benz,B 180,Gasolina,Hatch Back,1.6,140.5,1370
+Mercedes Benz,B 180 CDI,Diesel,Hatch Back,1.5,133,1420
+Mercedes Benz,B 180 CDI,Diesel,Hatch Back,1.8,145,1475
+Mercedes Benz,C 180,Gasolina,Coupé,1.6,146,1505
+Mercedes Benz,C 180,Gasolina,Sedan,1.6,136.5,1440
+Mercedes Benz,C 200,Gasolina,Sedan,2,136,1650
+Mercedes Benz,C 200 CGI,Gasolina,Sedan,1.8,171,1740
+Mercedes Benz,C 200 CGI,Gasolina,Station Wagon,1.8,171,1545
+Mercedes Benz,C 250 CGI,Gasolina,Sedan,1.8,181.5,1650
+Mercedes Benz,C 350,Gasolina,Sedan,3.5,213,1735
+Mercedes Benz,C 350 BlueEfficiency,Gasolina,Coupé,3.5,213,1660
+Mercedes Benz,C 350 CDI BlueEfficiency,Diesel,Sedan,3,168,1705
+Mercedes Benz,C 350 CDI Estate,Diesel,Station Wagon,3,168,1760
+Mercedes Benz,C 63 AMG,Gasolina,Coupé,6.2,283,1780
+Mercedes Benz,C 63 AMG,Gasolina,Sedan,4,261,1737
+Mercedes Benz,C 63 AMG,Gasolina,Sedan,6.2,330,1730
+Mercedes Benz,C 63 AMG S,Gasolina,Sedan,4,261,1737
+Mercedes Benz,CLA 180,Gasolina,Sedan,1.6,131,1395
+Mercedes Benz,CLA 180 Shooting,Gasolina,Station Wagon,1.6,133,1430
+Mercedes Benz,CLA 45 AMG,Gasolina,Sedan,2,168,1660
+Mercedes Benz,CLS 350,Gasolina,Sedan,3.5,196,1735
+Mercedes Benz,CLS 400,Gasolina,Sedan,3,178,1775
+Mercedes Benz,CLS 400 Shooting Brake,Gasolina,Station Wagon,3,183,1845
+Mercedes Benz,CLS 500,Gasolina,Sedan,4.7,198,1890
+Mercedes Benz,CLS 63 AMG,Gasolina,Sedan,5.5,233,2016
+Mercedes Benz,E 200,Gasolina,Coupé,2,157,1590
+Mercedes Benz,E 200,Gasolina,Sedan,2,157,1650
+Mercedes Benz,E 200 Cabrio,Gasolina,Cabriolet,2,157,1800
+Mercedes Benz,E 200 CGI,Gasolina,Sedan,1.8,166,1740
+Mercedes Benz,E 200 Estate,Gasolina,Station Wagon,2,157,1720
+Mercedes Benz,E 250,Gasolina,Sedan,2,178,1490
+Mercedes Benz,E 250 Bluetec,Diesel,Sedan,3,171,1905
+Mercedes Benz,E 250 Cabrio,Gasolina,Cabriolet,2,178,1665
+Mercedes Benz,E 250 CDI,Diesel,Sedan,3,178,1765
+Mercedes Benz,E 250 CDI,Diesel,Station Wagon,3,178,1885
+Mercedes Benz,E 250 CGI,Gasolina,Sedan,1.8,169,1650
+Mercedes Benz,E 250 Coupé,Gasolina,Coupé,2,178,1540
+Mercedes Benz,E 250 Estate,Gasolina,Station Wagon,2,178,1575
+Mercedes Benz,E 300,Gasolina,Sedan,3,233,1675
+Mercedes Benz,E 350,Gasolina,Cabriolet,3.5,213,1761
+Mercedes Benz,E 350,Gasolina,Coupé,3.5,213,1640
+Mercedes Benz,E 350 CD,Diesel,Coupé,3,202,1735
+Mercedes Benz,E 350 CDI,Diesel,Cabriolet,3,202,1865
+Mercedes Benz,E 400,Gasolina,Cabriolet,3,185,1965
+Mercedes Benz,E 400,Gasolina,Coupé,3,179,1905
+Mercedes Benz,E 400,Gasolina,Sedan,3,187,1830
+Mercedes Benz,E 63 AMG,Gasolina,Sedan,5.5,233,2016
+Mercedes Benz,E 63 AMG 4Matic,Gasolina,Sedan,5.5,242,1940
+Mercedes Benz,E 63 AMG S Estate 4Matic,Gasolina,Station Wagon,5.5,246,2095
+Mercedes Benz,S 63 AMG 4Matic L,Gasolina,Coupé,5.5,242,2122
+Mercedes Benz,S 63 AMG S 4Matic,Gasolina,Sedan,5.5,242,1940
+Mercedes Benz,SL 500,Gasolina,Cabriolet,4.7,216,1795
+Mercedes Benz,SL 63 AMG,Gasolina,Cabriolet,5.5,239,1870
+Mini,Cooper,Gasolina,Cabriolet,1.6,146,1315
+Mini,Cooper,Gasolina,Hatch Back,1.5,112.5,1210
+Mini,Cooper,Gasolina,Hatch Back,1.6,146,1415
+Mini,Cooper Clubman,Gasolina,Station Wagon,1.6,146,1290
+Mini,Cooper D,Diesel,Coupe,2,149,1250
+Mini,Cooper D,Diesel,Hatch Back,1.5,117,1265
+Mini,Cooper D,Diesel,Hatch Back,1.6,99,1415
+Mini,Cooper D,Diesel,Hatch Back,2,135,1440
+Mini,Cooper S,Gasolina,Cabriolet,1.6,147,1315
+Mini,Cooper S,Gasolina,Coupé,1.6,195,1250
+Mini,Cooper S,Gasolina,Hatch Back,1.6,147.5,1415
+Mini,Cooper S,Gasolina,Hatch Back,2,132.5,1310
+Mini,Cooper SD Countryman,Diesel,Station Wagon,2,142,1610
+Mini,John Cooper Works,Gasolina,Cabriolet,1.6,186,1315
+Mini,John Cooper Works,Gasolina,Coupé,1.6,186,1250
+Mini,John Cooper Works,Gasolina,Hatch Back,1.6,175.5,1235
+Mini,John Cooper Works,Gasolina,Station Wagon,1.6,186,1290
+Mini,John Cooper Works Clubman,Gasolina,Station Wagon,1.6,165,1290
+Mini,John Cooper Works Convertible,Gasolina,Cabriolet,1.6,165,1315
+Mini,John Cooper Works Coupe,Gasolina,Coupé,1.6,165,1250
+Mini,John Cooper Works Roadster,Gasolina,Cabriolet,1.6,165,1270
+Mitsubishi,Lancer R,Gasolina,Sedan,1.6,158,1335
+Mitsubishi,Mirage,Gasolina,Hatch Back,1.2,111,830
+Nissan,370Z,Gasolina,Coupe,3.7,232,1512
+Nissan,370Z,Gasolina,Coupé,3.7,240.5,1512
+Nissan,Altima,Gasolina,Sedan,2.5,191.66666666666666,1457
+Nissan,Altima,Gasolina,Sedan,3.5,207.33333333333334,1571
+Nissan,Juke,Gasolina,Hatch Back,1.6,138.5,1172
+Nissan,Juke Turbo,Gasolina,Hatch Back,1.6,179,1286
+Nissan,Note,Gasolina,Hatch Back,1.6,159.25,1116
+Nissan,Sentra,Gasolina,Sedan,1.8,166.5,1300
+Nissan,Tiida,Gasolina,Sedan,1.6,161,1193
+Nissan,Versa,Gasolina,Sedan,1.6,161,1179
+Opel,Adam,Gasolina,Hatch Back,1.4,129,1178
+Opel,Astra,Gasolina,Station Wagon,1.6,162.5,1393
+Opel,Astra GTC,Gasolina,Hatch Back,1.6,166,1503
+Opel,Astra HB,Gasolina,Hatch Back,1.4,145,1280
+Opel,Astra OPC,Gasolina,Hatch Back,2,260,1550
+Opel,Astra ST,Gasolina,Station Wagon,1.6,177,1393
+Opel,Cascada,Gasolina,Cabriolet,1.6,171,1733
+Opel,Corsa,Gasolina,Hatch Back,1.4,134,1141
+Opel,Corsa HB,Gasolina,Hatch Back,1.4,143,1141
+Opel,Insignia,Gasolina,Sedan,1.6,159,1503
+Opel,Insignia OPC Sport,Gasolina,Station Wagon,2.8,263.5,1930
+Opel,Insignia ST,Gasolina,Station Wagon,2,211.33333333333334,1537
+Opel,Zafira,Gasolina,Station Wagon,1.8,165,1518
+Peugeot,2008,Diesel,Station Wagon,1.6,111,1407
+Peugeot,2008,Gasolina,Station Wagon,1.6,140,1524
+Peugeot,208,Diesel,Hatch Back,1.6,106,1185
+Peugeot,208,Gasolina,Hatch Back,1.6,162,1185
+Peugeot,208 Gti,Gasolina,Hatch Back,1.6,136,1185
+Peugeot,208 Pure Tech,Gasolina,Hatch Back,1.2,106,1055
+Peugeot,3008 Active,Diesel,SUV,1.6,140,1375
+Peugeot,301,Gasolina,Sedan,1.6,151,1165
+Peugeot,308,Diesel,Hatch Back,1.6,108.33333333333333,1255
+Peugeot,308,Diesel,Hatch Back,2,107,1165
+Peugeot,308,Diesel,Station Wagon,1.6,110,1275
+Peugeot,308 CC,Diesel,Cabriolet,2,172,1525
+Peugeot,308 GT,Diesel,Hatch Back,2,110,1205
+Peugeot,308 Pure Tech,Gasolina,Hatch Back,1.2,119,1155
+Peugeot,508,Diesel,Sedan,1.6,127,1495
+Peugeot,508,Diesel,Sedan,2,130,1610
+Peugeot,RCZ,Gasolina,Coupé,1.6,168.5,1280
+Porsche,911 Carrera 4 GTS,Gasolina,Coupe,3.8,220,1470
+Porsche,911 Carrera 4 GTS Cabrio,Gasolina,Cabriolet,3.8,220,1540
+Porsche,911 Carrera 4S,Gasolina,Cabriolet,3.8,211,1515
+Porsche,911 Carrera 4S,Gasolina,Coupé,3.8,207,1445
+Porsche,911 Carrera 4S Coupé,Gasolina,Coupe,3.8,233,1445
+Porsche,911 Carrera GTS,Gasolina,Coupe,3.8,208,1470
+Porsche,911 Carrera GTS Cabrio,Gasolina,Cabriolet,3.8,213,1540
+Porsche,911 Carrera S,Gasolina,Cabriolet,3.8,204,1540
+Porsche,911 Carrera S,Gasolina,Coupé,3.8,199,1470
+Porsche,911 Carrera S Coupé,Gasolina,Coupe,3.8,228,1470
+Porsche,911 GT3,Gasolina,Coupé,3.8,301,1430
+Porsche,911 Turbo,Gasolina,Cabriolet,3.8,228,1665
+Porsche,911 Turbo,Gasolina,Coupé,3.8,228,1545
+Porsche,911 Turbo S,Gasolina,Cabriolet,3.8,228,1665
+Porsche,911 Turbo S,Gasolina,Coupé,3.8,228,1545
+Porsche,Boxster GTS,Gasolina,Cabriolet,3.4,195,1345
+Porsche,Boxster S,Gasolina,Cabriolet,3.4,195,1345
+Porsche,Cayman S PDK,Gasolina,Coupé,3.4,195,1375
+Porsche,Panamera,Diesel,Sedan,3,170,1815
+Porsche,Panamera 4S,Gasolina,Sedan,3,208,1870
+Porsche,Panamera GTS,Gasolina,Sedan,4.8,250,1925
+Porsche,Panamera S,Gasolina,Sedan,3,204,1815
+Porsche,Panamera Turbo,Gasolina,Sedan,4.8,248,1970
+Renault,Fluence,Gasolina,Sedan,1.6,158,1225
+Renault,Fluence,Gasolina,Sedan,2,187.66666666666666,1341
+Renault,Megane,Gasolina,Hatch Back,2,192,1306
+Skoda,Citigo,Gasolina,Hatch Back,1,101,929
+Skoda,Fabia,Diesel,Hatch Back,1.2,107,1109
+Skoda,Fabia,Diesel,Hatch Back,1.4,116,1156
+Skoda,Fabia,Diesel,Hatch Back,1.6,130,1204
+Skoda,Fabia,Gasolina,Hatch Back,1.2,129.33333333333334,1109
+Skoda,Fabia,Gasolina,Hatch Back,1.4,146,1313
+Skoda,Octavia,Diesel,Sedan,1.6,122.25,1305
+Skoda,Octavia,Diesel,Sedan,2,124,1338
+Skoda,Octavia,Diesel,Station Wagon,1.6,109,1327
+Skoda,Octavia,Diesel,Station Wagon,2,124,1360
+Skoda,Octavia,Gasolina,Sedan,1.4,122.5,1255
+Skoda,Octavia,Gasolina,Station Wagon,1.4,120,1277
+Skoda,Octavia RS,Gasolina,Sedan,2,177,1425
+Skoda,Rapid,Diesel,Sedan,1.6,121.33333333333333,1254
+Skoda,Rapid,Gasolina,Hatch Back,1.2,130,1130
+Skoda,Rapid,Gasolina,Sedan,1.2,130,1135
+Skoda,Rapid,Gasolina,Sedan,1.4,139,1236
+Skoda,Rapid Spaceback,Diesel,Hatch Back,1.6,121.5,1290
+Skoda,Rapid Spaceback,Gasolina,Hatch Back,1.4,139,1185
+Skoda,SuperB,Diesel,Sedan,2,161,1455
+Subaru,Impreza,Gasolina,Sedan,1.6,185,1300
+Subaru,Impreza,Gasolina,Sedan,2,181.75,1300
+Subaru,Impreza,Gasolina,Station Wagon,2,157.5,1425
+Subaru,Legacy,Gasolina,Sedan,2.5,181.5,1594
+Subaru,Legacy,Gasolina,Sedan,3.6,217,1700
+Subaru,Outback,Diesel,Station Wagon,2,161.5,1430
+Subaru,Outback,Gasolina,Station Wagon,2.5,177.66666666666666,1430
+Suzuki,Alto,Gasolina,Hatch Back,1,117.5,670
+Suzuki,Kizashi,Gasolina,Sedan,2.4,193.75,1470
+Suzuki,Swift,Gasolina,Hatch Back,1.4,135,970
+Suzuki,Swift Sport,Gasolina,Hatch Back,1.6,160.5,1050
+Suzuki,SX4,Gasolina,Hatch Back,1.6,156,1235
+Suzuki,SX4,Gasolina,Sedan,1.6,158,1240
+Toyota,Auris,Gasolina,Hatch Back,1.6,156.5,1250
+Toyota,Camry,Gasolina,Sedan,2.5,178,1579
+Toyota,Corolla,Gasolina,Sedan,1.8,161,1320
+Toyota,Prius C,Eléctrico/Híbrido,Hatch Back,1.5,97,1148
+Toyota,Yaris,Gasolina,Hatch Back,1.5,151,1087
+Toyota,Yaris,Gasolina,Sedan,1.5,151,1082
+Toyota,Yaris S,Gasolina,Sedan,1.5,147,1082
+Volkswagen,Beetle Cabrio,Gasolina,Cabriolet,1.4,155.5,1434
+Volkswagen,Beetle Cabrio,Gasolina,Cabriolet,2,185,1460
+Volkswagen,Bora,Gasolina,Sedan,1.4,157,1179
+Volkswagen,CC,Gasolina,Sedan,2,191.5,1528
+Volkswagen,CC,Gasolina,Sedan,3.6,215,1747
+Volkswagen,Gol,Gasolina,Hatch Back,1.6,164,961
+Volkswagen,Golf,Gasolina,Hatch Back,1.6,158,1157
+Volkswagen,Passat,Gasolina,Sedan,2,191.5,1508
+Volkswagen,Passat,Gasolina,Sedan,3.6,227,1620
+Volkswagen,Passat TSI,Gasolina,Sedan,1.8,169.5,1502
+Volkswagen,Polo,Gasolina,Sedan,1.6,168,1111
+Volvo,S40,Diesel,Sedan,1.6,102,1249
+Volvo,S60,Diesel,Sedan,2.4,168,1776
+Volvo,S80,Gasolina,Sedan,2,153,1687
+Volvo,V40,Gasolina,Hatch Back,1.6,138,1360
+Volvo,V40,Gasolina,Hatch Back,2,179.66666666666666,1360
+Volvo,V60,Gasolina,Station Wagon,2,166,1780
+Volvo,V60,Gasolina,Station Wagon,3,237,1657
+Volvo,XC70,Diesel,Station Wagon,2.4,165.5,1868
+Volvo,XC70,Gasolina,Station Wagon,3,248,1889
